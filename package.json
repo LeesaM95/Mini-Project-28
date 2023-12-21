@@ -1,5 +1,5 @@
 {
-  "name": "inquirer",
+  "name": "index.js",
   "version": "8.2.4",
   "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.6"
   }
 }
